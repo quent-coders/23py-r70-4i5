@@ -1,5 +1,6 @@
 const overall = {'period': 'sep 4, 2021 - may 27, 2023',
-                'total_study_hours': '117'}
+                'total_study_hours': '112.5'}
+
 const topics = ['Introduction to Python - {theory: 0:30}',
                 'Basic Program Overview - {theory: 0:40, practice: 1:30}',
                 'Introduction to Turtle - {theory: 0:40, practice: 1:30}',
