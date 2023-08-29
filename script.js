@@ -80,7 +80,7 @@ const projects = ['project name - Rock-Paper-Scissors (backend)',
 
                     'project name - Score Mining (PyGame)',
                     'project difficulty - 8/10',
-                    'topics knowlenge required - 25+',
+                    'topics knowlenge required - 30+',
                     'project time est. - 10+ hrs',
                     'implementation - PyGame + self functions',
                     'status - complete (7/7 stages)',
